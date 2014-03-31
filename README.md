@@ -15,3 +15,9 @@ http://rubydoc.info/gems/waveformjson/frames
 
 - Simple yet powerful ruby ffmpeg wrapper for reading metadata and transcoding movies<br>
 https://github.com/streamio/streamio-ffmpeg
+
+- Ruby gem waveform<br>
+https://github.com/bbcrd/audio_waveform-ruby
+
+- Sound Manager2<br>
+http://www.schillmania.com/projects/soundmanager2/
